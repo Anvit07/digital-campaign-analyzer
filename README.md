@@ -31,3 +31,5 @@ This project demonstrates how to:
 - Create and analyze marketing datasets using Python and Pandas
 - Visualize campaign performance in Power BI
 - Integrate AI into analytics workflows
+
+The campaign analysis revealed that Google Ads outperformed all other platforms with the highest return on ad spend (ROAS), while Meta Ads lagged in efficiency. Across 50 simulated campaigns, the average ROAS stood at 3.7, with an impressive 13.5% average CTR and a cost-per-click of ₹1.89. These insights highlight the importance of platform-specific budget optimization, keyword refinement, and creative testing to drive digital acquisition performance.
